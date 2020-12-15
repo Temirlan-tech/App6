@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hide">hide</string>
+    <string name="show">show</string>
+    <string name="editText">edit text</string>
+    <string name="send">send</string>
+</resources>
